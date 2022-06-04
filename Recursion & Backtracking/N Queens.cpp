@@ -51,3 +51,6 @@ public:
         return true;
     }
 };
+
+#Time Complexity-Exponential in nature, since we are trying out all ways. To be precise it goes as O(N! * N) nearly.
+#Space Complexity- O(N*N).
