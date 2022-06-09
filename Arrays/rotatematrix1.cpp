@@ -20,5 +20,5 @@ void rotate(vector<vector<int>>& matrix) {
         return;
     }
 
-#Time Complexity-O(N^N)+O(N^N)
+#Time Complexity-O(N*N)+O(N*N)
 #Space Complexity-O(1)
